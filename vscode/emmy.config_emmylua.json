@@ -1,0 +1,10 @@
+{
+    "source": [
+        {
+            "dir": "./",
+            "exclude": [
+                "MainGame/Resource/CN/Config/**.lua"
+            ]
+        }
+    ]
+}
